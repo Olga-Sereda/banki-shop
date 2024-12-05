@@ -4,7 +4,7 @@ export default [
     title: "«Рождение Венеры» Сандро Боттичелли",
     price: 1000000,
     oldPrice: 2000000,
-    img: "/img/img1.jpg",
+    img: "img/img1.jpg",
     availaible: true,
   },
   {
