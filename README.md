@@ -1,5 +1,7 @@
 # banki-shop
 
+Дэмо - https://olga-sereda.github.io/banki-shop/ 
+
 ## Project setup
 ```
 npm install
